@@ -8,5 +8,5 @@
        "source.fixAll.eslint": true
    },
    "editor.tabSize": 2,
-   "python.pythonPath":"api/.venv/bin/python3"
+   "python.pythonPath": "api/.venv/bin/python3"
 }
